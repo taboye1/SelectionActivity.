@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+<string name="instruction">Click an image to view</string>
+<string name="instruction">Cliquez sur une image pour l’afficher</string>
+  
 </resources>
