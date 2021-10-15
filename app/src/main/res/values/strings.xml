@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">SelectionActivity</string>
-
+    <string name="instruction">Click an image to view</string>
+    <string name="instruction">Cliquez sur une image pour l’afficher</string>
+    <string-array name="dogs_name">
+         <item> Mama Dog</item>
+         <item> Puppy</item>
+         <item> Golden Dog</item>
+         <item> Tredo</item>
+         <item> Jack</item>
+         <item> FriendShip</item>
+         <item> Bobi</item>
+         <item>Jackey</item>
+         <item> Box</item>
+         <item> Relax</item>
+         </string-array> 
 </resources>
