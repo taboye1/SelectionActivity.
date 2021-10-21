@@ -2,5 +2,17 @@
 <resources>
 <string name="instruction">Click an image to view</string>
 <string name="instruction">Cliquez sur une image pour l’afficher</string>
+<string-array name="dog_name">
+        <item> Maman Chien</item>
+        <item> Chiot</item>
+        <item> Chien d’or</item>
+        <item> Tredo</item>
+        <item> Valet</item>
+        <item> Amitié</item>
+        <item> Bobi</item>
+        <item>Jackey (de)</item>
+        <item> Boîte</item>
+        <item> Se détendre</item>
+    </string-array>
   
 </resources>
