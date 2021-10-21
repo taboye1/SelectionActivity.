@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">SelectionActivity</string>
+    <string name="app_name">MainActivity</string>
+    <string-array name="Dog_name">
+        <item> Mama Dog</item>
+        <item> Puppy</item>
+        <item> Golden Dog</item>
+        <item> Tredo</item>
+        <item> Jack</item>
+        <item> FriendShip</item>
+        <item> Bobi</item>
+        <item>Jackey</item>
+        <item> box</item>
+        <item> relax</item>
+    </string-array>
 
 </resources>
